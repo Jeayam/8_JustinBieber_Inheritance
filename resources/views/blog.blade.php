@@ -33,7 +33,8 @@
          <li class="@container">
             <article class="group relative flex h-full flex-col rounded-2xl has-[a:focus-visible]:outline-2 has-[a:focus-visible]:outline-offset-4 has-[a:focus-visible]:outline-zinc-950 @xl:grid @xl:grid-cols-2 @xl:items-center @xl:gap-8 dark:has-[a:focus-visible]:outline-zinc-50">
                <div class="aspect-[3/2] overflow-hidden rounded-2xl bg-neutral-100 ring-1 ring-neutral-950/5 dark:bg-neutral-800 dark:ring-white/5">
-                  <img src="https://readymadeui.com/images/about-image-1.webp" alt="People working on laptops along a long wooden table in a bright open office" class="size-full object-cover transition-transform duration-300 ease-out motion-safe:group-hover:scale-105 motion-reduce:transition-none" />
+                  <img src="https://www.popfiltr.com/img/?src=https%3A%2F%2Fcdn.prod.website-files.com%2F64e632e1a07b9b35364590b5%2F653ecca128fb697556c0996f_Justin-Bieber-bio.webp&w=1200&cfimg=1
+" alt="People working on laptops along a long wooden table in a bright open office" class="size-full object-cover transition-transform duration-300 ease-out motion-safe:group-hover:scale-105 motion-reduce:transition-none" />
                </div>
                <div class="mt-6 flex flex-1 flex-col @xl:mt-0">
                   <p class="flex flex-wrap items-center gap-x-2 gap-y-1 text-[13px] text-neutral-600 dark:text-neutral-400"><span class="mr-1 inline-flex items-center rounded-md border border-neutral-200 bg-white px-1.5 py-0.5 text-xs font-medium whitespace-nowrap text-neutral-950 dark:border-neutral-700 dark:bg-neutral-900 dark:text-neutral-300">Customers</span><time datetime="2026-10-14">Oct 14, 2026</time><span aria-hidden="true">·</span><span>8 min read</span></p>
@@ -41,7 +42,7 @@
                      <a href="https://www.popfiltr.com/id/artist-profile/justin-bieber" class="after:absolute after:inset-0 focus-visible:outline-hidden">How Northwind plans 14 product teams on one roadmap</a></h3>
                   <p class="mt-2 line-clamp-3 text-[15px]/6 text-pretty text-neutral-600 dark:text-neutral-400">Their planning week went from five days of spreadsheets to one afternoon. This is the setup they use.</p>
                   <div class="mt-auto flex items-center gap-3 pt-6">
-                     <img src="https://readymadeui.com/team-3.webp" alt="" class="size-8 shrink-0 rounded-full bg-neutral-100 object-cover outline-1 -outline-offset-1 outline-black/5 dark:bg-neutral-800" />
+                     <img src=" https://indhiregithap.wordpress.com/wp-content/uploads/2016/03/jb-believe-screen-shot-1.png" alt="" class="size-8 shrink-0 rounded-full bg-neutral-100 object-cover outline-1 -outline-offset-1 outline-black/5 dark:bg-neutral-800" />
                      <div class="min-w-0 text-sm">
                         <p class="font-medium text-neutral-950 dark:text-neutral-50">Elena Fischer</p>
                         <p class="text-neutral-600 dark:text-neutral-400">Customer success</p>
@@ -73,3 +74,4 @@
    </div>
 </section>
     @endsection
+
