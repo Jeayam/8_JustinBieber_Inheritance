@@ -42,7 +42,7 @@
                      <a href="https://www.popfiltr.com/id/artist-profile/justin-bieber" class="after:absolute after:inset-0 focus-visible:outline-hidden">How Northwind plans 14 product teams on one roadmap</a></h3>
                   <p class="mt-2 line-clamp-3 text-[15px]/6 text-pretty text-neutral-600 dark:text-neutral-400">Their planning week went from five days of spreadsheets to one afternoon. This is the setup they use.</p>
                   <div class="mt-auto flex items-center gap-3 pt-6">
-                     <img src=" https://indhiregithap.wordpress.com/wp-content/uploads/2016/03/jb-believe-screen-shot-1.png" alt="" class="size-8 shrink-0 rounded-full bg-neutral-100 object-cover outline-1 -outline-offset-1 outline-black/5 dark:bg-neutral-800" />
+                     <img src="  https://indhiregithap.wordpress.com/wp-content/uploads/2016/03/jb-believe-screen-shot-1.png" alt="" class="size-8 shrink-0 rounded-full bg-neutral-100 object-cover outline-1 -outline-offset-1 outline-black/5 dark:bg-neutral-800" />
                      <div class="min-w-0 text-sm">
                         <p class="font-medium text-neutral-950 dark:text-neutral-50">Elena Fischer</p>
                         <p class="text-neutral-600 dark:text-neutral-400">Customer success</p>
