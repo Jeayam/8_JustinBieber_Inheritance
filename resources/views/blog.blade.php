@@ -4,7 +4,7 @@
 
 
 @section('content')
-    <section aria-labelledby="blog-latest-title" class="bg-white px-4 py-16 md:px-8 md:py-24 dark:bg-neutral-950">
+    <section aria-labelledby="blog-latest-title" class=" px-4 py-16 md:px-8 md:py-24 ">
    <div class="mx-auto max-w-7xl">
       <div class="flex flex-col gap-6 sm:flex-row sm:items-end sm:justify-between">
          <div class="max-w-2xl">
